@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Siva\\Projects\\RAGaaSBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\ragaasblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:ragaasblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\ragaasblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:ragaasblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\wwwroot\\jshelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:wwwroot\\jshelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\data\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:data\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|c:\\siva\\projects\\ragaasblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941A17F-08D6-41AD-ACD5-6B0396674AFA}|RAGaaSBlazor.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Chat.razor",
+              "RelativeDocumentMoniker": "Components\\Chat.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Chat.razor",
+              "RelativeToolTip": "Components\\Chat.razor",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:10:52.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T17:14:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JSHelpers.js",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\wwwroot\\JSHelpers.js",
+              "RelativeDocumentMoniker": "wwwroot\\JSHelpers.js",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\wwwroot\\JSHelpers.js",
+              "RelativeToolTip": "wwwroot\\JSHelpers.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-23T23:57:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Data\\Message.cs",
+              "RelativeDocumentMoniker": "Data\\Message.cs",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Data\\Message.cs",
+              "RelativeToolTip": "Data\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:22:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RAGaaSBlazor.csproj",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\RAGaaSBlazor.csproj",
+              "RelativeDocumentMoniker": "RAGaaSBlazor.csproj",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\RAGaaSBlazor.csproj",
+              "RelativeToolTip": "RAGaaSBlazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T17:21:33.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T00:22:30.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T00:21:53.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T15:44:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:17:53.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatService.cs",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Services\\ChatService.cs",
+              "RelativeToolTip": "Services\\ChatService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:54:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RAGaaSBlazor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\RAGaaSBlazor.csproj",
+              "RelativeDocumentMoniker": "RAGaaSBlazor.csproj",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\RAGaaSBlazor.csproj",
+              "RelativeToolTip": "RAGaaSBlazor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T16:57:06.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:10:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:10:30.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Siva\\Projects\\RAGaaSBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:50:29.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
